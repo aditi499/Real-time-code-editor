@@ -1,0 +1,1 @@
+cout << "Shut up" << endl;
