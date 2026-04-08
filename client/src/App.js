@@ -4,7 +4,7 @@ import Editor from "@monaco-editor/react";
 
 /* ===== SOCKET SERVER URL ===== */
 /* Connects to deployed Render backend */
-const SERVER_URL = "https://real-time-code-editor-92zm.onrender.com";
+const SERVER_URL = "https://real-time-code-editor-1-ra0p.onrender.com";
 
 function App() {
 const [socket, setSocket] = useState(null);
